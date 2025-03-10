@@ -1,0 +1,7 @@
+KINDLE_URL="https://read.amazon.ca/kindle-library"
+USER_DATA_DIRECTORY="/home/username/.config/google-chrome/"
+PROFILE_DIRECTORY="Default"
+MAX_PAGES = 1000
+#For each screenshot in the Kindle Web App, specify how many pixels to remove to get rid of header and footer
+CROP_HEADER_PX = 62
+CROP_FOOTER_PX = 44
